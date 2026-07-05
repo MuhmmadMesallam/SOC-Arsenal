@@ -13,6 +13,9 @@ Extract the `SOC_Arsenal_Secure.zip` file to any folder on your computer (e.g., 
 **Step 2: Install Python**
 Open terminal on same Path and run .\setup.bat
 
+**step3:choose the Core** 
+if you have 16GB RAM or more you can choose the Big one unless choose the small if you have 8G of RAM.
+
 * *Note: This process takes 1-3 minutes and requires an internet connection just for this first setup.*
 
 ---
