@@ -58,5 +58,3 @@ The core philosophy of SOC Arsenal is that it integrates into your workflow with
 *(Features like Bulk Scan, Email Analysis, and Report by CSV are currently disabled/in development).*
 
 ---
-**Security Note:** 
-The core logic of this application is fully compiled and protected (using Native C binaries / `.pyd`). It is entirely safe from unauthorized modifications.
