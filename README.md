@@ -45,7 +45,7 @@ To use the "Threat Intel" feature to check IPs and Domains, you need to add your
 The core philosophy of SOC Arsenal is that it integrates into your workflow without making you switch windows.
 
 1. **Highlight Text:** Highlight any raw log, IP address, or text you want to analyze in your SIEM, Terminal, or Browser.
-2. **Press `Ctrl + Shift + X`:** The magical circular "Pie Menu" will appear right where your mouse is.
+2. **take Copy then Press `Ctrl + Shift + X`:** The magical circular "Pie Menu" will appear right where your mouse is ,the tool will read latest thing in clipboard and it will work on it.
 3. **Choose an Action:**
    * 📝 **Generate Report:** Turns messy logs into a clean, professional incident report.
    * ➕ **Add to Report:** Merges new findings into the report you are currently working on.
