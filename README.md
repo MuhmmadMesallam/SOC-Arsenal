@@ -8,7 +8,7 @@
  
 
 **Step 1: Extract the Application**
-Extract the `SOC_Arsenal_Secure.zip` file to any folder on your computer (e.g., your Desktop or Documents).
+Extract the `SOC_Arsena` file to any folder on your computer (e.g., your Desktop or Documents).
 
 **Step 2: Install Python**
 Open terminal on same Path and run .\setup.bat
